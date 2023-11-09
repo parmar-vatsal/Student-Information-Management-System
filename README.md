@@ -18,7 +18,6 @@ The Student Information Management System (SIMS) is a Java-based desktop applica
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 1. Clone this repository to your local machine.
@@ -54,7 +53,3 @@ Here Are the Screenshot of Project.
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
