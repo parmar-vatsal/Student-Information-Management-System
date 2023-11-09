@@ -1,9 +1,5 @@
 # Student Information Management System (SIMS) - Java Swing and JDBC Project
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/SIMS)
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/SIMS)
-![GitHub](https://img.shields.io/github/license/yourusername/SIMS)
-
 ## Overview
 The Student Information Management System (SIMS) is a Java-based desktop application built using the Swing framework for the user interface and JDBC for database connectivity. It provides a comprehensive solution for managing student records, including their personal information, grades, contact details, and more.
 
