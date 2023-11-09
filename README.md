@@ -23,7 +23,7 @@ The Student Information Management System (SIMS) is a Java-based desktop applica
 ## Installation
 1. Clone this repository to your local machine.
     ```sh
-    git clone https://github.com/yourusername/SIMS.git
+    git clone https://github.com/parmar-vatsal/Student-Information-Management-System.git
     ```
 2. Create a MySQL database and import the `student.sql` file provided in the `mysql` directory.
 
