@@ -25,18 +25,22 @@ The Student Information Management System (SIMS) is a Java-based desktop applica
     ```sh
     git clone https://github.com/yourusername/SIMS.git
     ```
-2. Create a MySQL database and import the `sims.sql` file provided in the `database` directory.
+2. Create a MySQL database and import the `student.sql` file provided in the `mysql` directory.
 
-3. Open the project in your favorite Java IDE and configure the database connection in `DatabaseConnection.java`.
+3. Open the project in your NetBeans 8.2 IDE and configure the database connection in `DatabaseConnection.java`.
 
-4. Run the project.
+4. Add the JAR file to your project's build path. Instructions may vary based on your IDE.
+
+5. Run the project.
 
 ## Usage
 - Start the SIMS application and log in with your credentials.
 - Use the intuitive interface to manage student records.
 
 ## Screenshots
-Include screenshots of the application here.
+Here Are the Screenshot of Project.
+![Image Description](images/login_screen.png)
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
