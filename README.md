@@ -39,7 +39,15 @@ The Student Information Management System (SIMS) is a Java-based desktop applica
 
 ## Screenshots
 Here Are the Screenshot of Project.
+
+
 ![Image Description](images/login_screen.png)
+![Image Description](images/register_screen.png)
+![Image Description](images/main_screen.png)
+![Image Description](images/insert_detail_screen.png)
+![Image Description](images/Update_detail_screen.png)
+![Image Description](images/display_detail_screen.png)
+![Image Description](images/delete_detail_screen.png)
 
 
 ## Contributing
